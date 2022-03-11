@@ -6,7 +6,7 @@ Input &amp; Output Eventplanning tool for your Party with the help of a Database
 
 **3. Import the event.sql file in your DB**
 
-**3. Change DB name in both php files line 28 or 29**
+**3. Change DB name in both php files on line 28 or 29**
 
 That's it.
 
