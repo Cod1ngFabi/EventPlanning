@@ -8,9 +8,9 @@ Input &amp; Output Eventplanning tool for your Party with the help of a Database
 
 **3. Change DB name in both php files on line 28 or 29**
 
-4. Save this files in localDisc(C:)/xampp/htdocs to run itr on your local server
+**4. Save this files in localDisc(C:)/xampp/htdocs to run itr on your local server**
 
-**5. Start in xampp panel the apache and sql -> go to localhost in your URL and type localhost/eventPlanningInput.php
+**5. Start in xampp panel the apache and sql -> go to localhost in your URL and type localhost/eventPlanningInput.php**
 
 That's it. Play with the file a bit and look at the code.
 
